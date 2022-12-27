@@ -438,13 +438,16 @@ body {
   font-size: 1.3rem;
 }
 
-#footer h2 {
+#footer h2{
   text-align: center;
-  font-size: 1.8rem;
-  padding: 2.6rem;
+  font-size: 1.1rem;
+  padding: 14px 10px;
   font-weight: 500;
   color: #fff;
   background: rgb(65, 65, 65);
+}
+#footer h2 a{
+  color: #16a083;
 }
 
 /* ......../ media query /.......... */
